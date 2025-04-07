@@ -1,0 +1,1141 @@
+Метрика,Сравнение,Порог,Тип наблюдений,Пара сезонов,Jaccard (клики),Jaccard (независимые),Сезон,Пара наблюдений
+pearson,по сезонам,0.05,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.05,hour,winter vs summer,0.0,1.0,,
+pearson,по сезонам,0.05,hour,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.05,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.05,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.05,hour,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.05,day,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.05,day,winter vs summer,0.2,0.3333333333333333,,
+pearson,по сезонам,0.05,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.05,day,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.05,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.05,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.05,month,winter vs spring,1.0,0.0,,
+pearson,по сезонам,0.05,month,winter vs summer,1.0,0.0,,
+pearson,по сезонам,0.05,month,winter vs autumn,1.0,0.0,,
+pearson,по сезонам,0.05,month,spring vs summer,1.0,0.0,,
+pearson,по сезонам,0.05,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.05,month,summer vs autumn,1.0,1.0,,
+pearson,по типу наблюдений,0.05,,,1.0,0.0,winter,hour vs day
+pearson,по типу наблюдений,0.05,,,0.0,1.0,winter,hour vs month
+pearson,по типу наблюдений,0.05,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.05,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.05,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.05,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.05,,,0.0,0.0,summer,hour vs day
+pearson,по типу наблюдений,0.05,,,0.0,0.0,summer,hour vs month
+pearson,по типу наблюдений,0.05,,,0.0,0.0,summer,day vs month
+pearson,по типу наблюдений,0.05,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.05,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.05,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.05,hour,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.05,hour,winter vs summer,0.25,0.3333333333333333,,
+kendall,по сезонам,0.05,hour,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.05,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.05,hour,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.05,hour,summer vs autumn,0.0,0.5,,
+kendall,по сезонам,0.05,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.05,day,winter vs summer,0.16666666666666666,0.0,,
+kendall,по сезонам,0.05,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.05,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.05,day,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.05,day,summer vs autumn,0.0,1.0,,
+kendall,по сезонам,0.05,month,winter vs spring,1.0,0.0,,
+kendall,по сезонам,0.05,month,winter vs summer,1.0,0.0,,
+kendall,по сезонам,0.05,month,winter vs autumn,1.0,0.0,,
+kendall,по сезонам,0.05,month,spring vs summer,1.0,0.0,,
+kendall,по сезонам,0.05,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.05,month,summer vs autumn,1.0,0.0,,
+kendall,по типу наблюдений,0.05,,,1.0,0.0,winter,hour vs day
+kendall,по типу наблюдений,0.05,,,0.0,0.5,winter,hour vs month
+kendall,по типу наблюдений,0.05,,,0.0,0.0,winter,day vs month
+kendall,по типу наблюдений,0.05,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.05,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.05,,,1.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.05,,,0.0,0.5,summer,hour vs day
+kendall,по типу наблюдений,0.05,,,0.0,0.5,summer,hour vs month
+kendall,по типу наблюдений,0.05,,,0.0,0.0,summer,day vs month
+kendall,по типу наблюдений,0.05,,,1.0,1.0,autumn,hour vs day
+kendall,по типу наблюдений,0.05,,,1.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.05,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.1,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.1,hour,winter vs summer,0.25,0.0,,
+pearson,по сезонам,0.1,hour,winter vs autumn,0.0,1.0,,
+pearson,по сезонам,0.1,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.1,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.1,hour,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.1,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.1,day,winter vs summer,0.2,0.0,,
+pearson,по сезонам,0.1,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.1,day,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.1,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.1,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.1,month,winter vs spring,1.0,0.0,,
+pearson,по сезонам,0.1,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.1,month,winter vs autumn,1.0,0.0,,
+pearson,по сезонам,0.1,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.1,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.1,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.1,,,0.25,1.0,winter,hour vs day
+pearson,по типу наблюдений,0.1,,,0.0,0.0,winter,hour vs month
+pearson,по типу наблюдений,0.1,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.1,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.1,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.1,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.1,,,0.0,0.0,summer,hour vs day
+pearson,по типу наблюдений,0.1,,,0.3333333333333333,0.0,summer,hour vs month
+pearson,по типу наблюдений,0.1,,,0.0,0.0,summer,day vs month
+pearson,по типу наблюдений,0.1,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.1,,,1.0,1.0,autumn,hour vs month
+pearson,по типу наблюдений,0.1,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.1,hour,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.1,hour,winter vs summer,0.5,1.0,,
+kendall,по сезонам,0.1,hour,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.1,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.1,hour,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.1,hour,summer vs autumn,0.0,0.5,,
+kendall,по сезонам,0.1,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.1,day,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.1,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.1,day,spring vs summer,0.0,0.5,,
+kendall,по сезонам,0.1,day,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.1,day,summer vs autumn,0.0,0.5,,
+kendall,по сезонам,0.1,month,winter vs spring,1.0,0.0,,
+kendall,по сезонам,0.1,month,winter vs summer,1.0,0.0,,
+kendall,по сезонам,0.1,month,winter vs autumn,1.0,0.0,,
+kendall,по сезонам,0.1,month,spring vs summer,1.0,0.0,,
+kendall,по сезонам,0.1,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.1,month,summer vs autumn,1.0,0.0,,
+kendall,по типу наблюдений,0.1,,,1.0,0.0,winter,hour vs day
+kendall,по типу наблюдений,0.1,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.1,,,0.0,0.0,winter,day vs month
+kendall,по типу наблюдений,0.1,,,1.0,1.0,spring,hour vs day
+kendall,по типу наблюдений,0.1,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.1,,,1.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.1,,,0.0,0.3333333333333333,summer,hour vs day
+kendall,по типу наблюдений,0.1,,,0.0,0.0,summer,hour vs month
+kendall,по типу наблюдений,0.1,,,0.0,0.0,summer,day vs month
+kendall,по типу наблюдений,0.1,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.1,,,1.0,1.0,autumn,hour vs month
+kendall,по типу наблюдений,0.1,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.15,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.15,hour,winter vs summer,0.5,0.3333333333333333,,
+pearson,по сезонам,0.15,hour,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.15,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.15,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.15,hour,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.15,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.15,day,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.15,day,winter vs autumn,0.0,1.0,,
+pearson,по сезонам,0.15,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.15,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.15,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.15,month,winter vs spring,1.0,0.0,,
+pearson,по сезонам,0.15,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.15,month,winter vs autumn,1.0,0.0,,
+pearson,по сезонам,0.15,month,spring vs summer,0.0,1.0,,
+pearson,по сезонам,0.15,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.15,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.15,,,1.0,0.0,winter,hour vs day
+pearson,по типу наблюдений,0.15,,,0.0,0.0,winter,hour vs month
+pearson,по типу наблюдений,0.15,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.15,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.15,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.15,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.15,,,0.0,0.3333333333333333,summer,hour vs day
+pearson,по типу наблюдений,0.15,,,0.16666666666666666,0.5,summer,hour vs month
+pearson,по типу наблюдений,0.15,,,0.3333333333333333,0.5,summer,day vs month
+pearson,по типу наблюдений,0.15,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.15,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.15,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.15,hour,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.15,hour,winter vs summer,0.5,0.3333333333333333,,
+kendall,по сезонам,0.15,hour,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.15,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.15,hour,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.15,hour,summer vs autumn,0.0,0.5,,
+kendall,по сезонам,0.15,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.15,day,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.15,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.15,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.15,day,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.15,day,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.15,month,winter vs spring,1.0,0.0,,
+kendall,по сезонам,0.15,month,winter vs summer,1.0,0.0,,
+kendall,по сезонам,0.15,month,winter vs autumn,1.0,0.0,,
+kendall,по сезонам,0.15,month,spring vs summer,1.0,0.0,,
+kendall,по сезонам,0.15,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.15,month,summer vs autumn,1.0,1.0,,
+kendall,по типу наблюдений,0.15,,,1.0,0.0,winter,hour vs day
+kendall,по типу наблюдений,0.15,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.15,,,0.0,0.0,winter,day vs month
+kendall,по типу наблюдений,0.15,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.15,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.15,,,1.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.15,,,0.0,0.0,summer,hour vs day
+kendall,по типу наблюдений,0.15,,,0.0,0.0,summer,hour vs month
+kendall,по типу наблюдений,0.15,,,0.0,0.5,summer,day vs month
+kendall,по типу наблюдений,0.15,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.15,,,1.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.15,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.2,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.2,hour,winter vs summer,0.5,0.6666666666666666,,
+pearson,по сезонам,0.2,hour,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.2,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.2,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.2,hour,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.2,day,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.2,day,winter vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.2,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.2,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.2,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.2,day,summer vs autumn,0.0,0.5,,
+pearson,по сезонам,0.2,month,winter vs spring,1.0,0.0,,
+pearson,по сезонам,0.2,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.2,month,winter vs autumn,1.0,0.0,,
+pearson,по сезонам,0.2,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.2,month,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.2,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.2,,,0.5,0.3333333333333333,winter,hour vs day
+pearson,по типу наблюдений,0.2,,,0.0,0.0,winter,hour vs month
+pearson,по типу наблюдений,0.2,,,0.0,0.5,winter,day vs month
+pearson,по типу наблюдений,0.2,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.2,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.2,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.2,,,0.0,0.6666666666666666,summer,hour vs day
+pearson,по типу наблюдений,0.2,,,0.0,0.25,summer,hour vs month
+pearson,по типу наблюдений,0.2,,,0.3333333333333333,0.0,summer,day vs month
+pearson,по типу наблюдений,0.2,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.2,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.2,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.2,hour,winter vs spring,0.0,0.5,,
+kendall,по сезонам,0.2,hour,winter vs summer,0.5,0.3333333333333333,,
+kendall,по сезонам,0.2,hour,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.2,hour,spring vs summer,0.0,0.5,,
+kendall,по сезонам,0.2,hour,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.2,hour,summer vs autumn,0.0,0.5,,
+kendall,по сезонам,0.2,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.2,day,winter vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.2,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.2,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.2,day,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.2,day,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.2,month,winter vs spring,1.0,0.0,,
+kendall,по сезонам,0.2,month,winter vs summer,1.0,0.0,,
+kendall,по сезонам,0.2,month,winter vs autumn,1.0,0.0,,
+kendall,по сезонам,0.2,month,spring vs summer,1.0,0.0,,
+kendall,по сезонам,0.2,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.2,month,summer vs autumn,1.0,1.0,,
+kendall,по типу наблюдений,0.2,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.2,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.2,,,0.0,0.0,winter,day vs month
+kendall,по типу наблюдений,0.2,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.2,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.2,,,1.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.2,,,0.0,0.0,summer,hour vs day
+kendall,по типу наблюдений,0.2,,,0.0,0.0,summer,hour vs month
+kendall,по типу наблюдений,0.2,,,0.0,0.5,summer,day vs month
+kendall,по типу наблюдений,0.2,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.2,,,1.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.2,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.25,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.25,hour,winter vs summer,0.5,0.25,,
+pearson,по сезонам,0.25,hour,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.25,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.25,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.25,hour,summer vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.25,day,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.25,day,winter vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.25,day,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.25,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.25,day,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.25,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.25,month,winter vs spring,1.0,1.0,,
+pearson,по сезонам,0.25,month,winter vs summer,0.0,0.5,,
+pearson,по сезонам,0.25,month,winter vs autumn,1.0,0.0,,
+pearson,по сезонам,0.25,month,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.25,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.25,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.25,,,1.0,0.3333333333333333,winter,hour vs day
+pearson,по типу наблюдений,0.25,,,0.0,0.0,winter,hour vs month
+pearson,по типу наблюдений,0.25,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.25,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.25,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.25,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.25,,,0.0,0.25,summer,hour vs day
+pearson,по типу наблюдений,0.25,,,0.0,0.25,summer,hour vs month
+pearson,по типу наблюдений,0.25,,,0.4,0.0,summer,day vs month
+pearson,по типу наблюдений,0.25,,,1.0,1.0,autumn,hour vs day
+pearson,по типу наблюдений,0.25,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.25,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.25,hour,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.25,hour,winter vs summer,0.3333333333333333,1.0,,
+kendall,по сезонам,0.25,hour,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.25,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.25,hour,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.25,hour,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.25,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.25,day,winter vs summer,0.14285714285714285,0.5,,
+kendall,по сезонам,0.25,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.25,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.25,day,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.25,day,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.25,month,winter vs spring,1.0,0.0,,
+kendall,по сезонам,0.25,month,winter vs summer,1.0,0.0,,
+kendall,по сезонам,0.25,month,winter vs autumn,1.0,0.0,,
+kendall,по сезонам,0.25,month,spring vs summer,1.0,0.0,,
+kendall,по сезонам,0.25,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.25,month,summer vs autumn,1.0,0.0,,
+kendall,по типу наблюдений,0.25,,,1.0,0.25,winter,hour vs day
+kendall,по типу наблюдений,0.25,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.25,,,0.0,0.5,winter,day vs month
+kendall,по типу наблюдений,0.25,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.25,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.25,,,1.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.25,,,0.14285714285714285,0.4,summer,hour vs day
+kendall,по типу наблюдений,0.25,,,0.0,0.3333333333333333,summer,hour vs month
+kendall,по типу наблюдений,0.25,,,0.0,0.0,summer,day vs month
+kendall,по типу наблюдений,0.25,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.25,,,1.0,1.0,autumn,hour vs month
+kendall,по типу наблюдений,0.25,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.3,hour,winter vs spring,0.0,0.3333333333333333,,
+pearson,по сезонам,0.3,hour,winter vs summer,0.0,0.2,,
+pearson,по сезонам,0.3,hour,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.3,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.3,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.3,hour,summer vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.3,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.3,day,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.3,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.3,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.3,day,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.3,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.3,month,winter vs spring,1.0,1.0,,
+pearson,по сезонам,0.3,month,winter vs summer,0.0,0.5,,
+pearson,по сезонам,0.3,month,winter vs autumn,1.0,1.0,,
+pearson,по сезонам,0.3,month,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.3,month,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.3,month,summer vs autumn,0.0,0.5,,
+pearson,по типу наблюдений,0.3,,,0.5,0.25,winter,hour vs day
+pearson,по типу наблюдений,0.3,,,0.0,0.3333333333333333,winter,hour vs month
+pearson,по типу наблюдений,0.3,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.3,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.3,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.3,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.3,,,0.14285714285714285,0.0,summer,hour vs day
+pearson,по типу наблюдений,0.3,,,0.14285714285714285,0.0,summer,hour vs month
+pearson,по типу наблюдений,0.3,,,0.0,1.0,summer,day vs month
+pearson,по типу наблюдений,0.3,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.3,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.3,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.3,hour,winter vs spring,0.0,0.3333333333333333,,
+kendall,по сезонам,0.3,hour,winter vs summer,1.0,0.2,,
+kendall,по сезонам,0.3,hour,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.3,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.3,hour,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.3,hour,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по сезонам,0.3,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.3,day,winter vs summer,0.0,0.4,,
+kendall,по сезонам,0.3,day,winter vs autumn,0.0,0.3333333333333333,,
+kendall,по сезонам,0.3,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.3,day,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.3,day,summer vs autumn,0.0,0.25,,
+kendall,по сезонам,0.3,month,winter vs spring,1.0,1.0,,
+kendall,по сезонам,0.3,month,winter vs summer,1.0,0.0,,
+kendall,по сезонам,0.3,month,winter vs autumn,1.0,0.0,,
+kendall,по сезонам,0.3,month,spring vs summer,1.0,0.0,,
+kendall,по сезонам,0.3,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.3,month,summer vs autumn,1.0,1.0,,
+kendall,по типу наблюдений,0.3,,,0.6,0.5,winter,hour vs day
+kendall,по типу наблюдений,0.3,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.3,,,0.0,0.0,winter,day vs month
+kendall,по типу наблюдений,0.3,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.3,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.3,,,1.0,1.0,spring,day vs month
+kendall,по типу наблюдений,0.3,,,0.125,0.4,summer,hour vs day
+kendall,по типу наблюдений,0.3,,,0.0,0.3333333333333333,summer,hour vs month
+kendall,по типу наблюдений,0.3,,,0.0,0.25,summer,day vs month
+kendall,по типу наблюдений,0.3,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.3,,,1.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.3,,,1.0,1.0,autumn,day vs month
+pearson,по сезонам,0.35,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.35,hour,winter vs summer,0.16666666666666666,1.0,,
+pearson,по сезонам,0.35,hour,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.35,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.35,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.35,hour,summer vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.35,day,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.35,day,winter vs summer,0.0,0.25,,
+pearson,по сезонам,0.35,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.35,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.35,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.35,day,summer vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.35,month,winter vs spring,1.0,0.0,,
+pearson,по сезонам,0.35,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.35,month,winter vs autumn,1.0,0.0,,
+pearson,по сезонам,0.35,month,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.35,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.35,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.35,,,0.2,0.25,winter,hour vs day
+pearson,по типу наблюдений,0.35,,,0.0,0.3333333333333333,winter,hour vs month
+pearson,по типу наблюдений,0.35,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.35,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.35,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.35,,,1.0,1.0,spring,day vs month
+pearson,по типу наблюдений,0.35,,,0.0,0.5,summer,hour vs day
+pearson,по типу наблюдений,0.35,,,0.0,0.0,summer,hour vs month
+pearson,по типу наблюдений,0.35,,,0.0,0.25,summer,day vs month
+pearson,по типу наблюдений,0.35,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.35,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.35,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.35,hour,winter vs spring,0.0,0.3333333333333333,,
+kendall,по сезонам,0.35,hour,winter vs summer,0.6,0.4,,
+kendall,по сезонам,0.35,hour,winter vs autumn,0.0,0.3333333333333333,,
+kendall,по сезонам,0.35,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.35,hour,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.35,hour,summer vs autumn,0.0,0.25,,
+kendall,по сезонам,0.35,day,winter vs spring,0.0,0.3333333333333333,,
+kendall,по сезонам,0.35,day,winter vs summer,0.125,0.4,,
+kendall,по сезонам,0.35,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.35,day,spring vs summer,0.0,0.25,,
+kendall,по сезонам,0.35,day,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.35,day,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.35,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.35,month,winter vs summer,0.0,0.25,,
+kendall,по сезонам,0.35,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.35,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.35,month,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.35,month,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по типу наблюдений,0.35,,,1.0,0.5,winter,hour vs day
+kendall,по типу наблюдений,0.35,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.35,,,0.0,0.0,winter,day vs month
+kendall,по типу наблюдений,0.35,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.35,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.35,,,1.0,1.0,spring,day vs month
+kendall,по типу наблюдений,0.35,,,0.2857142857142857,0.3333333333333333,summer,hour vs day
+kendall,по типу наблюдений,0.35,,,0.16666666666666666,0.4,summer,hour vs month
+kendall,по типу наблюдений,0.35,,,0.14285714285714285,0.16666666666666666,summer,day vs month
+kendall,по типу наблюдений,0.35,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.35,,,1.0,1.0,autumn,hour vs month
+kendall,по типу наблюдений,0.35,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.4,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.4,hour,winter vs summer,0.16666666666666666,0.5,,
+pearson,по сезонам,0.4,hour,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.4,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.4,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.4,hour,summer vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.4,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.4,day,winter vs summer,0.0,0.4,,
+pearson,по сезонам,0.4,day,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.4,day,spring vs summer,0.0,0.25,,
+pearson,по сезонам,0.4,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.4,day,summer vs autumn,0.0,0.25,,
+pearson,по сезонам,0.4,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.4,month,winter vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.4,month,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.4,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.4,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.4,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.4,,,1.0,1.0,winter,hour vs day
+pearson,по типу наблюдений,0.4,,,0.0,0.0,winter,hour vs month
+pearson,по типу наблюдений,0.4,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.4,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.4,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.4,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.4,,,0.0,0.4,summer,hour vs day
+pearson,по типу наблюдений,0.4,,,0.0,0.0,summer,hour vs month
+pearson,по типу наблюдений,0.4,,,0.0,0.2,summer,day vs month
+pearson,по типу наблюдений,0.4,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.4,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.4,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.4,hour,winter vs spring,0.0,0.25,,
+kendall,по сезонам,0.4,hour,winter vs summer,0.6666666666666666,0.6,,
+kendall,по сезонам,0.4,hour,winter vs autumn,0.0,0.25,,
+kendall,по сезонам,0.4,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.4,hour,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.4,hour,summer vs autumn,0.0,0.25,,
+kendall,по сезонам,0.4,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.4,day,winter vs summer,0.6666666666666666,0.3333333333333333,,
+kendall,по сезонам,0.4,day,winter vs autumn,0.0,0.25,,
+kendall,по сезонам,0.4,day,spring vs summer,0.0,0.25,,
+kendall,по сезонам,0.4,day,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.4,day,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.4,month,winter vs spring,0.0,0.5,,
+kendall,по сезонам,0.4,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.4,month,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.4,month,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.4,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.4,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.4,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.4,,,0.0,0.5,winter,hour vs month
+kendall,по типу наблюдений,0.4,,,0.0,0.5,winter,day vs month
+kendall,по типу наблюдений,0.4,,,1.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.4,,,1.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.4,,,1.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.4,,,1.0,0.3333333333333333,summer,hour vs day
+kendall,по типу наблюдений,0.4,,,0.14285714285714285,0.16666666666666666,summer,hour vs month
+kendall,по типу наблюдений,0.4,,,0.14285714285714285,0.4,summer,day vs month
+kendall,по типу наблюдений,0.4,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.4,,,1.0,1.0,autumn,hour vs month
+kendall,по типу наблюдений,0.4,,,1.0,0.0,autumn,day vs month
+pearson,по сезонам,0.45,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.45,hour,winter vs summer,0.16666666666666666,0.4,,
+pearson,по сезонам,0.45,hour,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.45,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.45,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.45,hour,summer vs autumn,0.0,0.25,,
+pearson,по сезонам,0.45,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.45,day,winter vs summer,0.14285714285714285,0.5,,
+pearson,по сезонам,0.45,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.45,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.45,day,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.45,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.45,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.45,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.45,month,winter vs autumn,0.0,1.0,,
+pearson,по сезонам,0.45,month,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.45,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.45,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.45,,,0.5,0.25,winter,hour vs day
+pearson,по типу наблюдений,0.45,,,0.0,0.3333333333333333,winter,hour vs month
+pearson,по типу наблюдений,0.45,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.45,,,1.0,1.0,spring,hour vs day
+pearson,по типу наблюдений,0.45,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.45,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.45,,,0.2857142857142857,1.0,summer,hour vs day
+pearson,по типу наблюдений,0.45,,,0.0,0.5,summer,hour vs month
+pearson,по типу наблюдений,0.45,,,0.0,0.5,summer,day vs month
+pearson,по типу наблюдений,0.45,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.45,,,1.0,1.0,autumn,hour vs month
+pearson,по типу наблюдений,0.45,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.45,hour,winter vs spring,0.0,0.25,,
+kendall,по сезонам,0.45,hour,winter vs summer,1.0,0.3333333333333333,,
+kendall,по сезонам,0.45,hour,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.45,hour,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.45,hour,spring vs autumn,0.0,0.0,,
+kendall,по сезонам,0.45,hour,summer vs autumn,0.0,0.25,,
+kendall,по сезонам,0.45,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.45,day,winter vs summer,0.6666666666666666,1.0,,
+kendall,по сезонам,0.45,day,winter vs autumn,0.0,0.25,,
+kendall,по сезонам,0.45,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.45,day,spring vs autumn,0.0,0.0,,
+kendall,по сезонам,0.45,day,summer vs autumn,0.0,0.25,,
+kendall,по сезонам,0.45,month,winter vs spring,0.0,0.5,,
+kendall,по сезонам,0.45,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.45,month,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.45,month,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.45,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.45,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.45,,,0.6666666666666666,0.3333333333333333,winter,hour vs day
+kendall,по типу наблюдений,0.45,,,0.0,0.0,winter,hour vs month
+kendall,по типу наблюдений,0.45,,,0.0,0.5,winter,day vs month
+kendall,по типу наблюдений,0.45,,,0.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.45,,,0.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.45,,,0.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.45,,,0.6666666666666666,0.6,summer,hour vs day
+kendall,по типу наблюдений,0.45,,,0.14285714285714285,0.4,summer,hour vs month
+kendall,по типу наблюдений,0.45,,,0.14285714285714285,0.4,summer,day vs month
+kendall,по типу наблюдений,0.45,,,1.0,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.45,,,1.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.45,,,1.0,1.0,autumn,day vs month
+pearson,по сезонам,0.5,hour,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.5,hour,winter vs summer,0.3333333333333333,0.75,,
+pearson,по сезонам,0.5,hour,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.5,hour,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.5,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.5,hour,summer vs autumn,0.0,0.25,,
+pearson,по сезонам,0.5,day,winter vs spring,0.0,0.3333333333333333,,
+pearson,по сезонам,0.5,day,winter vs summer,0.125,0.75,,
+pearson,по сезонам,0.5,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.5,day,spring vs summer,0.0,0.25,,
+pearson,по сезонам,0.5,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.5,day,summer vs autumn,0.0,0.25,,
+pearson,по сезонам,0.5,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.5,month,winter vs summer,0.0,0.5,,
+pearson,по сезонам,0.5,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.5,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.5,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.5,month,summer vs autumn,0.0,0.5,,
+pearson,по типу наблюдений,0.5,,,1.0,0.5,winter,hour vs day
+pearson,по типу наблюдений,0.5,,,0.0,0.3333333333333333,winter,hour vs month
+pearson,по типу наблюдений,0.5,,,0.0,0.3333333333333333,winter,day vs month
+pearson,по типу наблюдений,0.5,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.5,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.5,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.5,,,0.5,0.3333333333333333,summer,hour vs day
+pearson,по типу наблюдений,0.5,,,0.0,0.2,summer,hour vs month
+pearson,по типу наблюдений,0.5,,,0.0,0.5,summer,day vs month
+pearson,по типу наблюдений,0.5,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.5,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.5,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.5,hour,winter vs spring,0.14285714285714285,0.6,,
+kendall,по сезонам,0.5,hour,winter vs summer,0.42857142857142855,0.6666666666666666,,
+kendall,по сезонам,0.5,hour,winter vs autumn,0.0,0.16666666666666666,,
+kendall,по сезонам,0.5,hour,spring vs summer,0.14285714285714285,0.6,,
+kendall,по сезонам,0.5,hour,spring vs autumn,0.25,0.25,,
+kendall,по сезонам,0.5,hour,summer vs autumn,0.0,0.4,,
+kendall,по сезонам,0.5,day,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.5,day,winter vs summer,0.2222222222222222,0.8,,
+kendall,по сезонам,0.5,day,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.5,day,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.5,day,spring vs autumn,0.3333333333333333,1.0,,
+kendall,по сезонам,0.5,day,summer vs autumn,0.0,0.0,,
+kendall,по сезонам,0.5,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.5,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.5,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.5,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.5,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.5,month,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по типу наблюдений,0.5,,,0.6666666666666666,0.8,winter,hour vs day
+kendall,по типу наблюдений,0.5,,,0.0,0.4,winter,hour vs month
+kendall,по типу наблюдений,0.5,,,0.0,0.2,winter,day vs month
+kendall,по типу наблюдений,0.5,,,0.0,0.0,spring,hour vs day
+kendall,по типу наблюдений,0.5,,,0.0,0.3333333333333333,spring,hour vs month
+kendall,по типу наблюдений,0.5,,,0.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.5,,,0.375,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.5,,,0.14285714285714285,0.3333333333333333,summer,hour vs month
+kendall,по типу наблюдений,0.5,,,0.2857142857142857,0.3333333333333333,summer,day vs month
+kendall,по типу наблюдений,0.5,,,0.3333333333333333,0.0,autumn,hour vs day
+kendall,по типу наблюдений,0.5,,,0.0,0.5,autumn,hour vs month
+kendall,по типу наблюдений,0.5,,,0.0,0.0,autumn,day vs month
+pearson,по сезонам,0.55,hour,winter vs spring,0.0,0.3333333333333333,,
+pearson,по сезонам,0.55,hour,winter vs summer,0.125,0.75,,
+pearson,по сезонам,0.55,hour,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.55,hour,spring vs summer,0.0,0.25,,
+pearson,по сезонам,0.55,hour,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.55,hour,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.55,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.55,day,winter vs summer,0.125,0.4,,
+pearson,по сезонам,0.55,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.55,day,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.55,day,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.55,day,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.55,month,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.55,month,winter vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.55,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.55,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.55,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.55,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.55,,,1.0,0.5,winter,hour vs day
+pearson,по типу наблюдений,0.55,,,0.0,0.6666666666666666,winter,hour vs month
+pearson,по типу наблюдений,0.55,,,0.0,0.6666666666666666,winter,day vs month
+pearson,по типу наблюдений,0.55,,,1.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.55,,,1.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.55,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.55,,,1.0,0.3333333333333333,summer,hour vs day
+pearson,по типу наблюдений,0.55,,,0.0,0.2,summer,hour vs month
+pearson,по типу наблюдений,0.55,,,0.0,0.0,summer,day vs month
+pearson,по типу наблюдений,0.55,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.55,,,1.0,1.0,autumn,hour vs month
+pearson,по типу наблюдений,0.55,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.55,hour,winter vs spring,0.25,0.3333333333333333,,
+kendall,по сезонам,0.55,hour,winter vs summer,1.0,0.42857142857142855,,
+kendall,по сезонам,0.55,hour,winter vs autumn,0.2857142857142857,0.6,,
+kendall,по сезонам,0.55,hour,spring vs summer,0.25,0.6,,
+kendall,по сезонам,0.55,hour,spring vs autumn,0.4,0.5,,
+kendall,по сезонам,0.55,hour,summer vs autumn,0.2857142857142857,0.3333333333333333,,
+kendall,по сезонам,0.55,day,winter vs spring,0.0,0.6,,
+kendall,по сезонам,0.55,day,winter vs summer,0.5714285714285714,0.6666666666666666,,
+kendall,по сезонам,0.55,day,winter vs autumn,0.0,0.4,,
+kendall,по сезонам,0.55,day,spring vs summer,0.0,0.6,,
+kendall,по сезонам,0.55,day,spring vs autumn,0.25,0.6666666666666666,,
+kendall,по сезонам,0.55,day,summer vs autumn,0.0,0.4,,
+kendall,по сезонам,0.55,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.55,month,winter vs summer,0.0,0.25,,
+kendall,по сезонам,0.55,month,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.55,month,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.55,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.55,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.55,,,0.5714285714285714,0.6666666666666666,winter,hour vs day
+kendall,по типу наблюдений,0.55,,,0.0,0.16666666666666666,winter,hour vs month
+kendall,по типу наблюдений,0.55,,,0.0,0.16666666666666666,winter,day vs month
+kendall,по типу наблюдений,0.55,,,0.0,0.2,spring,hour vs day
+kendall,по типу наблюдений,0.55,,,0.0,0.0,spring,hour vs month
+kendall,по типу наблюдений,0.55,,,0.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.55,,,1.0,0.42857142857142855,summer,hour vs day
+kendall,по типу наблюдений,0.55,,,0.2857142857142857,0.6,summer,hour vs month
+kendall,по типу наблюдений,0.55,,,0.2857142857142857,0.3333333333333333,summer,day vs month
+kendall,по типу наблюдений,0.55,,,0.0,0.25,autumn,hour vs day
+kendall,по типу наблюдений,0.55,,,0.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.55,,,0.0,0.5,autumn,day vs month
+pearson,по сезонам,0.6,hour,winter vs spring,0.0,0.2,,
+pearson,по сезонам,0.6,hour,winter vs summer,0.5,1.0,,
+pearson,по сезонам,0.6,hour,winter vs autumn,0.0,0.25,,
+pearson,по сезонам,0.6,hour,spring vs summer,0.0,0.2,,
+pearson,по сезонам,0.6,hour,spring vs autumn,0.0,0.0,,
+pearson,по сезонам,0.6,hour,summer vs autumn,0.0,0.25,,
+pearson,по сезонам,0.6,day,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.6,day,winter vs summer,0.25,0.3333333333333333,,
+pearson,по сезонам,0.6,day,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.6,day,spring vs summer,0.0,0.2,,
+pearson,по сезонам,0.6,day,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.6,day,summer vs autumn,0.0,0.2,,
+pearson,по сезонам,0.6,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.6,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.6,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.6,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.6,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.6,month,summer vs autumn,0.0,0.5,,
+pearson,по типу наблюдений,0.6,,,0.6,0.4,winter,hour vs day
+pearson,по типу наблюдений,0.6,,,0.0,0.2,winter,hour vs month
+pearson,по типу наблюдений,0.6,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.6,,,0.0,0.5,spring,hour vs day
+pearson,по типу наблюдений,0.6,,,0.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.6,,,1.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.6,,,0.2222222222222222,0.8,summer,hour vs day
+pearson,по типу наблюдений,0.6,,,0.0,0.2,summer,hour vs month
+pearson,по типу наблюдений,0.6,,,0.0,0.4,summer,day vs month
+pearson,по типу наблюдений,0.6,,,1.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.6,,,1.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.6,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.6,hour,winter vs spring,0.25,0.6,,
+kendall,по сезонам,0.6,hour,winter vs summer,1.0,0.42857142857142855,,
+kendall,по сезонам,0.6,hour,winter vs autumn,0.2857142857142857,0.6,,
+kendall,по сезонам,0.6,hour,spring vs summer,0.25,0.3333333333333333,,
+kendall,по сезонам,0.6,hour,spring vs autumn,0.4,1.0,,
+kendall,по сезонам,0.6,hour,summer vs autumn,0.2857142857142857,0.3333333333333333,,
+kendall,по сезонам,0.6,day,winter vs spring,0.125,0.4,,
+kendall,по сезонам,0.6,day,winter vs summer,1.0,0.6666666666666666,,
+kendall,по сезонам,0.6,day,winter vs autumn,0.125,0.4,,
+kendall,по сезонам,0.6,day,spring vs summer,0.125,0.16666666666666666,,
+kendall,по сезонам,0.6,day,spring vs autumn,0.2,0.3333333333333333,,
+kendall,по сезонам,0.6,day,summer vs autumn,0.125,0.4,,
+kendall,по сезонам,0.6,month,winter vs spring,0.0,0.5,,
+kendall,по сезонам,0.6,month,winter vs summer,0.0,0.6666666666666666,,
+kendall,по сезонам,0.6,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.6,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.6,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.6,month,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по типу наблюдений,0.6,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.6,,,0.0,0.16666666666666666,winter,hour vs month
+kendall,по типу наблюдений,0.6,,,0.0,0.16666666666666666,winter,day vs month
+kendall,по типу наблюдений,0.6,,,0.16666666666666666,0.6666666666666666,spring,hour vs day
+kendall,по типу наблюдений,0.6,,,0.0,0.3333333333333333,spring,hour vs month
+kendall,по типу наблюдений,0.6,,,0.0,0.5,spring,day vs month
+kendall,по типу наблюдений,0.6,,,1.0,0.6666666666666666,summer,hour vs day
+kendall,по типу наблюдений,0.6,,,0.2857142857142857,0.6,summer,hour vs month
+kendall,по типу наблюдений,0.6,,,0.2857142857142857,0.3333333333333333,summer,day vs month
+kendall,по типу наблюдений,0.6,,,0.5,0.25,autumn,hour vs day
+kendall,по типу наблюдений,0.6,,,0.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.6,,,0.0,0.0,autumn,day vs month
+pearson,по сезонам,0.65,hour,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.65,hour,winter vs summer,0.6666666666666666,1.0,,
+pearson,по сезонам,0.65,hour,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.65,hour,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.65,hour,spring vs autumn,0.0,0.0,,
+pearson,по сезонам,0.65,hour,summer vs autumn,0.0,0.0,,
+pearson,по сезонам,0.65,day,winter vs spring,0.0,0.25,,
+pearson,по сезонам,0.65,day,winter vs summer,0.2222222222222222,0.5,,
+pearson,по сезонам,0.65,day,winter vs autumn,0.0,0.25,,
+pearson,по сезонам,0.65,day,spring vs summer,0.0,0.2,,
+pearson,по сезонам,0.65,day,spring vs autumn,0.0,0.0,,
+pearson,по сезонам,0.65,day,summer vs autumn,0.0,0.2,,
+pearson,по сезонам,0.65,month,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.65,month,winter vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.65,month,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.65,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.65,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.65,month,summer vs autumn,0.0,0.5,,
+pearson,по типу наблюдений,0.65,,,1.0,1.0,winter,hour vs day
+pearson,по типу наблюдений,0.65,,,0.0,0.0,winter,hour vs month
+pearson,по типу наблюдений,0.65,,,0.0,0.0,winter,day vs month
+pearson,по типу наблюдений,0.65,,,0.0,0.0,spring,hour vs day
+pearson,по типу наблюдений,0.65,,,0.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.65,,,0.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.65,,,0.2222222222222222,0.5,summer,hour vs day
+pearson,по типу наблюдений,0.65,,,0.0,0.2,summer,hour vs month
+pearson,по типу наблюдений,0.65,,,0.0,0.4,summer,day vs month
+pearson,по типу наблюдений,0.65,,,0.0,0.0,autumn,hour vs day
+pearson,по типу наблюдений,0.65,,,0.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.65,,,1.0,0.0,autumn,day vs month
+kendall,по сезонам,0.65,hour,winter vs spring,0.2222222222222222,0.5,,
+kendall,по сезонам,0.65,hour,winter vs summer,0.7142857142857143,0.8333333333333334,,
+kendall,по сезонам,0.65,hour,winter vs autumn,0.2857142857142857,0.3333333333333333,,
+kendall,по сезонам,0.65,hour,spring vs summer,0.2222222222222222,0.6666666666666666,,
+kendall,по сезонам,0.65,hour,spring vs autumn,0.3333333333333333,0.4,,
+kendall,по сезонам,0.65,hour,summer vs autumn,0.2857142857142857,0.2857142857142857,,
+kendall,по сезонам,0.65,day,winter vs spring,0.1111111111111111,0.6,,
+kendall,по сезонам,0.65,day,winter vs summer,0.7142857142857143,0.8333333333333334,,
+kendall,по сезонам,0.65,day,winter vs autumn,0.2857142857142857,0.3333333333333333,,
+kendall,по сезонам,0.65,day,spring vs summer,0.1111111111111111,0.5,,
+kendall,по сезонам,0.65,day,spring vs autumn,0.16666666666666666,0.2,,
+kendall,по сезонам,0.65,day,summer vs autumn,0.2857142857142857,0.2857142857142857,,
+kendall,по сезонам,0.65,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.65,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.65,month,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.65,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.65,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.65,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.65,,,1.0,0.6666666666666666,winter,hour vs day
+kendall,по типу наблюдений,0.65,,,0.0,0.4,winter,hour vs month
+kendall,по типу наблюдений,0.65,,,0.0,0.4,winter,day vs month
+kendall,по типу наблюдений,0.65,,,0.125,0.4,spring,hour vs day
+kendall,по типу наблюдений,0.65,,,0.0,0.25,spring,hour vs month
+kendall,по типу наблюдений,0.65,,,0.0,0.3333333333333333,spring,day vs month
+kendall,по типу наблюдений,0.65,,,1.0,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.65,,,0.2857142857142857,0.2857142857142857,summer,hour vs month
+kendall,по типу наблюдений,0.65,,,0.2857142857142857,0.2857142857142857,summer,day vs month
+kendall,по типу наблюдений,0.65,,,1.0,1.0,autumn,hour vs day
+kendall,по типу наблюдений,0.65,,,0.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.65,,,0.0,0.0,autumn,day vs month
+pearson,по сезонам,0.7,hour,winter vs spring,0.14285714285714285,0.4,,
+pearson,по сезонам,0.7,hour,winter vs summer,0.2222222222222222,0.5,,
+pearson,по сезонам,0.7,hour,winter vs autumn,0.0,0.2,,
+pearson,по сезонам,0.7,hour,spring vs summer,0.125,0.6,,
+pearson,по сезонам,0.7,hour,spring vs autumn,0.2,0.25,,
+pearson,по сезонам,0.7,hour,summer vs autumn,0.0,0.16666666666666666,,
+pearson,по сезонам,0.7,day,winter vs spring,0.0,0.25,,
+pearson,по сезонам,0.7,day,winter vs summer,0.2222222222222222,0.5,,
+pearson,по сезонам,0.7,day,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.7,day,spring vs summer,0.0,0.2,,
+pearson,по сезонам,0.7,day,spring vs autumn,0.3333333333333333,0.0,,
+pearson,по сезонам,0.7,day,summer vs autumn,0.0,0.4,,
+pearson,по сезонам,0.7,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.7,month,winter vs summer,0.0,0.0,,
+pearson,по сезонам,0.7,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.7,month,spring vs summer,0.0,0.5,,
+pearson,по сезонам,0.7,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.7,month,summer vs autumn,0.0,0.5,,
+pearson,по типу наблюдений,0.7,,,1.0,0.6,winter,hour vs day
+pearson,по типу наблюдений,0.7,,,0.0,0.5,winter,hour vs month
+pearson,по типу наблюдений,0.7,,,0.0,0.2,winter,day vs month
+pearson,по типу наблюдений,0.7,,,0.0,0.3333333333333333,spring,hour vs day
+pearson,по типу наблюдений,0.7,,,0.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.7,,,0.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.7,,,1.0,0.42857142857142855,summer,hour vs day
+pearson,по типу наблюдений,0.7,,,0.0,0.16666666666666666,summer,hour vs month
+pearson,по типу наблюдений,0.7,,,0.0,0.4,summer,day vs month
+pearson,по типу наблюдений,0.7,,,0.0,0.3333333333333333,autumn,hour vs day
+pearson,по типу наблюдений,0.7,,,0.0,0.5,autumn,hour vs month
+pearson,по типу наблюдений,0.7,,,0.0,0.5,autumn,day vs month
+kendall,по сезонам,0.7,hour,winter vs spring,0.375,0.8333333333333334,,
+kendall,по сезонам,0.7,hour,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.7,hour,winter vs autumn,0.25,0.5,,
+kendall,по сезонам,0.7,hour,spring vs summer,0.375,0.8333333333333334,,
+kendall,по сезонам,0.7,hour,spring vs autumn,0.2857142857142857,0.3333333333333333,,
+kendall,по сезонам,0.7,hour,summer vs autumn,0.25,0.5,,
+kendall,по сезонам,0.7,day,winter vs spring,0.2222222222222222,0.5,,
+kendall,по сезонам,0.7,day,winter vs summer,0.7142857142857143,0.8333333333333334,,
+kendall,по сезонам,0.7,day,winter vs autumn,0.25,0.8,,
+kendall,по сезонам,0.7,day,spring vs summer,0.2222222222222222,0.6666666666666666,,
+kendall,по сезонам,0.7,day,spring vs autumn,0.5,0.6,,
+kendall,по сезонам,0.7,day,summer vs autumn,0.25,0.6666666666666666,,
+kendall,по сезонам,0.7,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.7,month,winter vs summer,0.0,0.25,,
+kendall,по сезонам,0.7,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.7,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.7,month,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.7,month,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по типу наблюдений,0.7,,,0.7142857142857143,0.5714285714285714,winter,hour vs day
+kendall,по типу наблюдений,0.7,,,0.0,0.14285714285714285,winter,hour vs month
+kendall,по типу наблюдений,0.7,,,0.0,0.4,winter,day vs month
+kendall,по типу наблюдений,0.7,,,0.42857142857142855,0.8,spring,hour vs day
+kendall,по типу наблюдений,0.7,,,0.0,0.2,spring,hour vs month
+kendall,по типу наблюдений,0.7,,,0.0,0.25,spring,day vs month
+kendall,по типу наблюдений,0.7,,,1.0,0.7142857142857143,summer,hour vs day
+kendall,по типу наблюдений,0.7,,,0.125,0.5,summer,hour vs month
+kendall,по типу наблюдений,0.7,,,0.125,0.5,summer,day vs month
+kendall,по типу наблюдений,0.7,,,1.0,0.4,autumn,hour vs day
+kendall,по типу наблюдений,0.7,,,0.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.7,,,0.0,0.0,autumn,day vs month
+pearson,по сезонам,0.75,hour,winter vs spring,0.2857142857142857,0.3333333333333333,,
+pearson,по сезонам,0.75,hour,winter vs summer,0.5714285714285714,1.0,,
+pearson,по сезонам,0.75,hour,winter vs autumn,0.14285714285714285,0.3333333333333333,,
+pearson,по сезонам,0.75,hour,spring vs summer,0.25,0.3333333333333333,,
+pearson,по сезонам,0.75,hour,spring vs autumn,0.16666666666666666,0.5,,
+pearson,по сезонам,0.75,hour,summer vs autumn,0.125,0.3333333333333333,,
+pearson,по сезонам,0.75,day,winter vs spring,0.0,0.25,,
+pearson,по сезонам,0.75,day,winter vs summer,0.2222222222222222,0.5,,
+pearson,по сезонам,0.75,day,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.75,day,spring vs summer,0.0,0.2,,
+pearson,по сезонам,0.75,day,spring vs autumn,0.25,0.0,,
+pearson,по сезонам,0.75,day,summer vs autumn,0.0,0.4,,
+pearson,по сезонам,0.75,month,winter vs spring,0.0,0.5,,
+pearson,по сезонам,0.75,month,winter vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.75,month,winter vs autumn,0.0,0.5,,
+pearson,по сезонам,0.75,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.75,month,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.75,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.75,,,0.42857142857142855,0.5,winter,hour vs day
+pearson,по типу наблюдений,0.75,,,0.0,0.16666666666666666,winter,hour vs month
+pearson,по типу наблюдений,0.75,,,0.0,0.2,winter,day vs month
+pearson,по типу наблюдений,0.75,,,0.0,0.3333333333333333,spring,hour vs day
+pearson,по типу наблюдений,0.75,,,0.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.75,,,0.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.75,,,1.0,0.6666666666666666,summer,hour vs day
+pearson,по типу наблюдений,0.75,,,0.1111111111111111,0.16666666666666666,summer,hour vs month
+pearson,по типу наблюдений,0.75,,,0.1111111111111111,0.4,summer,day vs month
+pearson,по типу наблюдений,0.75,,,0.0,0.25,autumn,hour vs day
+pearson,по типу наблюдений,0.75,,,0.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.75,,,0.0,0.5,autumn,day vs month
+kendall,по сезонам,0.75,hour,winter vs spring,0.3,0.7142857142857143,,
+kendall,по сезонам,0.75,hour,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.75,hour,winter vs autumn,0.2,0.5714285714285714,,
+kendall,по сезонам,0.75,hour,spring vs summer,0.3,0.7142857142857143,,
+kendall,по сезонам,0.75,hour,spring vs autumn,0.375,0.5,,
+kendall,по сезонам,0.75,hour,summer vs autumn,0.2,0.5714285714285714,,
+kendall,по сезонам,0.75,day,winter vs spring,0.3,0.7142857142857143,,
+kendall,по сезонам,0.75,day,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.75,day,winter vs autumn,0.2,0.5714285714285714,,
+kendall,по сезонам,0.75,day,spring vs summer,0.3,0.7142857142857143,,
+kendall,по сезонам,0.75,day,spring vs autumn,0.2222222222222222,0.5,,
+kendall,по сезонам,0.75,day,summer vs autumn,0.2,0.5714285714285714,,
+kendall,по сезонам,0.75,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.75,month,winter vs summer,0.0,0.6666666666666666,,
+kendall,по сезонам,0.75,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.75,month,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.75,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.75,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.75,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.75,,,0.0,0.2857142857142857,winter,hour vs month
+kendall,по типу наблюдений,0.75,,,0.0,0.2857142857142857,winter,day vs month
+kendall,по типу наблюдений,0.75,,,1.0,0.42857142857142855,spring,hour vs day
+kendall,по типу наблюдений,0.75,,,0.0,0.2,spring,hour vs month
+kendall,по типу наблюдений,0.75,,,0.0,0.0,spring,day vs month
+kendall,по типу наблюдений,0.75,,,1.0,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.75,,,0.1111111111111111,0.42857142857142855,summer,hour vs month
+kendall,по типу наблюдений,0.75,,,0.1111111111111111,0.42857142857142855,summer,day vs month
+kendall,по типу наблюдений,0.75,,,0.42857142857142855,1.0,autumn,hour vs day
+kendall,по типу наблюдений,0.75,,,0.0,0.25,autumn,hour vs month
+kendall,по типу наблюдений,0.75,,,0.0,0.25,autumn,day vs month
+pearson,по сезонам,0.8,hour,winter vs spring,0.25,0.8,,
+pearson,по сезонам,0.8,hour,winter vs summer,0.7142857142857143,0.5714285714285714,,
+pearson,по сезонам,0.8,hour,winter vs autumn,0.2857142857142857,0.6,,
+pearson,по сезонам,0.8,hour,spring vs summer,0.25,0.42857142857142855,,
+pearson,по сезонам,0.8,hour,spring vs autumn,0.4,0.75,,
+pearson,по сезонам,0.8,hour,summer vs autumn,0.2857142857142857,0.5,,
+pearson,по сезонам,0.8,day,winter vs spring,0.14285714285714285,0.4,,
+pearson,по сезонам,0.8,day,winter vs summer,0.5714285714285714,0.8,,
+pearson,по сезонам,0.8,day,winter vs autumn,0.14285714285714285,0.4,,
+pearson,по сезонам,0.8,day,spring vs summer,0.125,0.3333333333333333,,
+pearson,по сезонам,0.8,day,spring vs autumn,0.2,0.2,,
+pearson,по сезонам,0.8,day,summer vs autumn,0.125,0.3333333333333333,,
+pearson,по сезонам,0.8,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.8,month,winter vs summer,0.0,0.25,,
+pearson,по сезонам,0.8,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.8,month,spring vs summer,0.0,0.3333333333333333,,
+pearson,по сезонам,0.8,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.8,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.8,,,0.5714285714285714,0.8,winter,hour vs day
+pearson,по типу наблюдений,0.8,,,0.14285714285714285,0.4,winter,hour vs month
+pearson,по типу наблюдений,0.8,,,0.16666666666666666,0.2,winter,day vs month
+pearson,по типу наблюдений,0.8,,,0.16666666666666666,0.4,spring,hour vs day
+pearson,по типу наблюдений,0.8,,,0.0,0.25,spring,hour vs month
+pearson,по типу наблюдений,0.8,,,0.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.8,,,1.0,0.5714285714285714,summer,hour vs day
+pearson,по типу наблюдений,0.8,,,0.1,0.2857142857142857,summer,hour vs month
+pearson,по типу наблюдений,0.8,,,0.1,0.6,summer,day vs month
+pearson,по типу наблюдений,0.8,,,0.5,0.5,autumn,hour vs day
+pearson,по типу наблюдений,0.8,,,0.0,0.3333333333333333,autumn,hour vs month
+pearson,по типу наблюдений,0.8,,,0.0,0.3333333333333333,autumn,day vs month
+kendall,по сезонам,0.8,hour,winter vs spring,0.4444444444444444,0.7142857142857143,,
+kendall,по сезонам,0.8,hour,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.8,hour,winter vs autumn,0.3,0.7142857142857143,,
+kendall,по сезонам,0.8,hour,spring vs summer,0.4444444444444444,0.7142857142857143,,
+kendall,по сезонам,0.8,hour,spring vs autumn,0.7142857142857143,1.0,,
+kendall,по сезонам,0.8,hour,summer vs autumn,0.3,0.7142857142857143,,
+kendall,по сезонам,0.8,day,winter vs spring,0.3,0.7142857142857143,,
+kendall,по сезонам,0.8,day,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.8,day,winter vs autumn,0.18181818181818182,0.7142857142857143,,
+kendall,по сезонам,0.8,day,spring vs summer,0.3,0.7142857142857143,,
+kendall,по сезонам,0.8,day,spring vs autumn,0.7142857142857143,1.0,,
+kendall,по сезонам,0.8,day,summer vs autumn,0.18181818181818182,0.7142857142857143,,
+kendall,по сезонам,0.8,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.8,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.8,month,winter vs autumn,0.0,0.5,,
+kendall,по сезонам,0.8,month,spring vs summer,0.0,0.0,,
+kendall,по сезонам,0.8,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.8,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.8,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.8,,,0.0,0.2857142857142857,winter,hour vs month
+kendall,по типу наблюдений,0.8,,,0.0,0.2857142857142857,winter,day vs month
+kendall,по типу наблюдений,0.8,,,0.7142857142857143,1.0,spring,hour vs day
+kendall,по типу наблюдений,0.8,,,0.0,0.2,spring,hour vs month
+kendall,по типу наблюдений,0.8,,,0.0,0.2,spring,day vs month
+kendall,по типу наблюдений,0.8,,,1.0,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.8,,,0.1111111111111111,0.42857142857142855,summer,hour vs month
+kendall,по типу наблюдений,0.8,,,0.1111111111111111,0.42857142857142855,summer,day vs month
+kendall,по типу наблюдений,0.8,,,0.7142857142857143,1.0,autumn,hour vs day
+kendall,по типу наблюдений,0.8,,,0.0,0.0,autumn,hour vs month
+kendall,по типу наблюдений,0.8,,,0.0,0.0,autumn,day vs month
+pearson,по сезонам,0.85,hour,winter vs spring,0.375,0.5,,
+pearson,по сезонам,0.85,hour,winter vs summer,0.5,0.5714285714285714,,
+pearson,по сезонам,0.85,hour,winter vs autumn,0.25,0.3333333333333333,,
+pearson,по сезонам,0.85,hour,spring vs summer,0.375,0.6666666666666666,,
+pearson,по сезонам,0.85,hour,spring vs autumn,0.2857142857142857,0.75,,
+pearson,по сезонам,0.85,hour,summer vs autumn,0.25,0.5,,
+pearson,по сезонам,0.85,day,winter vs spring,0.1,0.3333333333333333,,
+pearson,по сезонам,0.85,day,winter vs summer,0.5,0.8333333333333334,,
+pearson,по сезонам,0.85,day,winter vs autumn,0.2857142857142857,0.6,,
+pearson,по сезонам,0.85,day,spring vs summer,0.1,0.2857142857142857,,
+pearson,по сезонам,0.85,day,spring vs autumn,0.14285714285714285,0.5,,
+pearson,по сезонам,0.85,day,summer vs autumn,0.2857142857142857,0.5,,
+pearson,по сезонам,0.85,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.85,month,winter vs summer,0.0,0.25,,
+pearson,по сезонам,0.85,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.85,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.85,month,spring vs autumn,1.0,0.0,,
+pearson,по сезонам,0.85,month,summer vs autumn,0.0,0.0,,
+pearson,по типу наблюдений,0.85,,,1.0,0.6666666666666666,winter,hour vs day
+pearson,по типу наблюдений,0.85,,,0.14285714285714285,0.4,winter,hour vs month
+pearson,по типу наблюдений,0.85,,,0.14285714285714285,0.4,winter,day vs month
+pearson,по типу наблюдений,0.85,,,0.42857142857142855,0.4,spring,hour vs day
+pearson,по типу наблюдений,0.85,,,0.0,0.0,spring,hour vs month
+pearson,по типу наблюдений,0.85,,,0.0,0.0,spring,day vs month
+pearson,по типу наблюдений,0.85,,,1.0,1.0,summer,hour vs day
+pearson,по типу наблюдений,0.85,,,0.1,0.5,summer,hour vs month
+pearson,по типу наблюдений,0.85,,,0.1,0.5,summer,day vs month
+pearson,по типу наблюдений,0.85,,,0.4,0.5,autumn,hour vs day
+pearson,по типу наблюдений,0.85,,,0.0,0.3333333333333333,autumn,hour vs month
+pearson,по типу наблюдений,0.85,,,0.0,0.3333333333333333,autumn,day vs month
+kendall,по сезонам,0.85,hour,winter vs spring,1.0,1.0,,
+kendall,по сезонам,0.85,hour,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.85,hour,winter vs autumn,1.0,1.0,,
+kendall,по сезонам,0.85,hour,spring vs summer,1.0,1.0,,
+kendall,по сезонам,0.85,hour,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.85,hour,summer vs autumn,1.0,1.0,,
+kendall,по сезонам,0.85,day,winter vs spring,0.625,0.8571428571428571,,
+kendall,по сезонам,0.85,day,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.85,day,winter vs autumn,0.4444444444444444,0.7142857142857143,,
+kendall,по сезонам,0.85,day,spring vs summer,0.625,0.8571428571428571,,
+kendall,по сезонам,0.85,day,spring vs autumn,0.7142857142857143,0.5714285714285714,,
+kendall,по сезонам,0.85,day,summer vs autumn,0.4444444444444444,0.7142857142857143,,
+kendall,по сезонам,0.85,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.85,month,winter vs summer,0.0,0.25,,
+kendall,по сезонам,0.85,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.85,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.85,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.85,month,summer vs autumn,0.0,0.0,,
+kendall,по типу наблюдений,0.85,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.85,,,0.0,0.2857142857142857,winter,hour vs month
+kendall,по типу наблюдений,0.85,,,0.0,0.2857142857142857,winter,day vs month
+kendall,по типу наблюдений,0.85,,,0.625,0.8571428571428571,spring,hour vs day
+kendall,по типу наблюдений,0.85,,,0.0,0.14285714285714285,spring,hour vs month
+kendall,по типу наблюдений,0.85,,,0.0,0.16666666666666666,spring,day vs month
+kendall,по типу наблюдений,0.85,,,1.0,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.85,,,0.1111111111111111,0.42857142857142855,summer,hour vs month
+kendall,по типу наблюдений,0.85,,,0.1111111111111111,0.42857142857142855,summer,day vs month
+kendall,по типу наблюдений,0.85,,,0.4444444444444444,0.7142857142857143,autumn,hour vs day
+kendall,по типу наблюдений,0.85,,,0.0,0.14285714285714285,autumn,hour vs month
+kendall,по типу наблюдений,0.85,,,0.0,0.0,autumn,day vs month
+pearson,по сезонам,0.9,hour,winter vs spring,0.7142857142857143,0.8333333333333334,,
+pearson,по сезонам,0.9,hour,winter vs summer,0.4444444444444444,0.8571428571428571,,
+pearson,по сезонам,0.9,hour,winter vs autumn,0.2222222222222222,0.6666666666666666,,
+pearson,по сезонам,0.9,hour,spring vs summer,0.3,0.7142857142857143,,
+pearson,по сезонам,0.9,hour,spring vs autumn,0.375,0.5,,
+pearson,по сезонам,0.9,hour,summer vs autumn,0.2,0.5714285714285714,,
+pearson,по сезонам,0.9,day,winter vs spring,0.7142857142857143,0.8333333333333334,,
+pearson,по сезонам,0.9,day,winter vs summer,0.4444444444444444,0.8571428571428571,,
+pearson,по сезонам,0.9,day,winter vs autumn,0.25,0.5,,
+pearson,по сезонам,0.9,day,spring vs summer,0.3,0.7142857142857143,,
+pearson,по сезонам,0.9,day,spring vs autumn,0.25,0.3333333333333333,,
+pearson,по сезонам,0.9,day,summer vs autumn,0.2222222222222222,0.42857142857142855,,
+pearson,по сезонам,0.9,month,winter vs spring,0.0,0.6666666666666666,,
+pearson,по сезонам,0.9,month,winter vs summer,0.0,0.4,,
+pearson,по сезонам,0.9,month,winter vs autumn,0.0,0.0,,
+pearson,по сезонам,0.9,month,spring vs summer,0.0,0.2,,
+pearson,по сезонам,0.9,month,spring vs autumn,0.0,0.0,,
+pearson,по сезонам,0.9,month,summer vs autumn,0.0,0.25,,
+pearson,по типу наблюдений,0.9,,,1.0,1.0,winter,hour vs day
+pearson,по типу наблюдений,0.9,,,0.125,0.5,winter,hour vs month
+pearson,по типу наблюдений,0.9,,,0.125,0.5,winter,day vs month
+pearson,по типу наблюдений,0.9,,,1.0,1.0,spring,hour vs day
+pearson,по типу наблюдений,0.9,,,0.0,0.4,spring,hour vs month
+pearson,по типу наблюдений,0.9,,,0.0,0.4,spring,day vs month
+pearson,по типу наблюдений,0.9,,,1.0,1.0,summer,hour vs day
+pearson,по типу наблюдений,0.9,,,0.09090909090909091,0.5714285714285714,summer,hour vs month
+pearson,по типу наблюдений,0.9,,,0.09090909090909091,0.5714285714285714,summer,day vs month
+pearson,по типу наблюдений,0.9,,,0.2857142857142857,0.75,autumn,hour vs day
+pearson,по типу наблюдений,0.9,,,0.0,0.0,autumn,hour vs month
+pearson,по типу наблюдений,0.9,,,0.0,0.0,autumn,day vs month
+kendall,по сезонам,0.9,hour,winter vs spring,1.0,1.0,,
+kendall,по сезонам,0.9,hour,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.9,hour,winter vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,hour,spring vs summer,1.0,1.0,,
+kendall,по сезонам,0.9,hour,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,hour,summer vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,day,winter vs spring,1.0,1.0,,
+kendall,по сезонам,0.9,day,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.9,day,winter vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,day,spring vs summer,1.0,1.0,,
+kendall,по сезонам,0.9,day,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,day,summer vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.9,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.9,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.9,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.9,month,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.9,month,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по типу наблюдений,0.9,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.9,,,0.0,0.2857142857142857,winter,hour vs month
+kendall,по типу наблюдений,0.9,,,0.0,0.2857142857142857,winter,day vs month
+kendall,по типу наблюдений,0.9,,,1.0,1.0,spring,hour vs day
+kendall,по типу наблюдений,0.9,,,0.0,0.14285714285714285,spring,hour vs month
+kendall,по типу наблюдений,0.9,,,0.0,0.14285714285714285,spring,day vs month
+kendall,по типу наблюдений,0.9,,,1.0,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.9,,,0.1111111111111111,0.42857142857142855,summer,hour vs month
+kendall,по типу наблюдений,0.9,,,0.1111111111111111,0.42857142857142855,summer,day vs month
+kendall,по типу наблюдений,0.9,,,1.0,1.0,autumn,hour vs day
+kendall,по типу наблюдений,0.9,,,0.0,0.14285714285714285,autumn,hour vs month
+kendall,по типу наблюдений,0.9,,,0.0,0.14285714285714285,autumn,day vs month
+pearson,по сезонам,0.95,hour,winter vs spring,1.0,1.0,,
+pearson,по сезонам,0.95,hour,winter vs summer,1.0,1.0,,
+pearson,по сезонам,0.95,hour,winter vs autumn,0.4444444444444444,0.7142857142857143,,
+pearson,по сезонам,0.95,hour,spring vs summer,1.0,1.0,,
+pearson,по сезонам,0.95,hour,spring vs autumn,0.4444444444444444,0.7142857142857143,,
+pearson,по сезонам,0.95,hour,summer vs autumn,0.4444444444444444,0.7142857142857143,,
+pearson,по сезонам,0.95,day,winter vs spring,0.3,0.7142857142857143,,
+pearson,по сезонам,0.95,day,winter vs summer,1.0,1.0,,
+pearson,по сезонам,0.95,day,winter vs autumn,0.3,0.7142857142857143,,
+pearson,по сезонам,0.95,day,spring vs summer,0.3,0.7142857142857143,,
+pearson,по сезонам,0.95,day,spring vs autumn,1.0,1.0,,
+pearson,по сезонам,0.95,day,summer vs autumn,0.3,0.7142857142857143,,
+pearson,по сезонам,0.95,month,winter vs spring,0.0,0.0,,
+pearson,по сезонам,0.95,month,winter vs summer,0.125,0.5,,
+pearson,по сезонам,0.95,month,winter vs autumn,0.0,0.3333333333333333,,
+pearson,по сезонам,0.95,month,spring vs summer,0.0,0.0,,
+pearson,по сезонам,0.95,month,spring vs autumn,0.0,0.0,,
+pearson,по сезонам,0.95,month,summer vs autumn,0.0,0.16666666666666666,,
+pearson,по типу наблюдений,0.95,,,1.0,1.0,winter,hour vs day
+pearson,по типу наблюдений,0.95,,,0.1111111111111111,0.42857142857142855,winter,hour vs month
+pearson,по типу наблюдений,0.95,,,0.1111111111111111,0.42857142857142855,winter,day vs month
+pearson,по типу наблюдений,0.95,,,0.3,0.7142857142857143,spring,hour vs day
+pearson,по типу наблюдений,0.95,,,0.0,0.14285714285714285,spring,hour vs month
+pearson,по типу наблюдений,0.95,,,0.0,0.2,spring,day vs month
+pearson,по типу наблюдений,0.95,,,1.0,1.0,summer,hour vs day
+pearson,по типу наблюдений,0.95,,,0.4444444444444444,0.8571428571428571,summer,hour vs month
+pearson,по типу наблюдений,0.95,,,0.4444444444444444,0.8571428571428571,summer,day vs month
+pearson,по типу наблюдений,0.95,,,0.7142857142857143,0.6666666666666666,autumn,hour vs day
+pearson,по типу наблюдений,0.95,,,0.0,0.2,autumn,hour vs month
+pearson,по типу наблюдений,0.95,,,0.0,0.2,autumn,day vs month
+kendall,по сезонам,0.95,hour,winter vs spring,1.0,1.0,,
+kendall,по сезонам,0.95,hour,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.95,hour,winter vs autumn,1.0,1.0,,
+kendall,по сезонам,0.95,hour,spring vs summer,1.0,1.0,,
+kendall,по сезонам,0.95,hour,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.95,hour,summer vs autumn,1.0,1.0,,
+kendall,по сезонам,0.95,day,winter vs spring,1.0,1.0,,
+kendall,по сезонам,0.95,day,winter vs summer,1.0,1.0,,
+kendall,по сезонам,0.95,day,winter vs autumn,1.0,1.0,,
+kendall,по сезонам,0.95,day,spring vs summer,1.0,1.0,,
+kendall,по сезонам,0.95,day,spring vs autumn,1.0,1.0,,
+kendall,по сезонам,0.95,day,summer vs autumn,1.0,1.0,,
+kendall,по сезонам,0.95,month,winter vs spring,0.0,0.0,,
+kendall,по сезонам,0.95,month,winter vs summer,0.0,0.0,,
+kendall,по сезонам,0.95,month,winter vs autumn,0.0,0.0,,
+kendall,по сезонам,0.95,month,spring vs summer,0.0,0.3333333333333333,,
+kendall,по сезонам,0.95,month,spring vs autumn,1.0,0.0,,
+kendall,по сезонам,0.95,month,summer vs autumn,0.0,0.3333333333333333,,
+kendall,по типу наблюдений,0.95,,,1.0,1.0,winter,hour vs day
+kendall,по типу наблюдений,0.95,,,0.0,0.2857142857142857,winter,hour vs month
+kendall,по типу наблюдений,0.95,,,0.0,0.2857142857142857,winter,day vs month
+kendall,по типу наблюдений,0.95,,,1.0,1.0,spring,hour vs day
+kendall,по типу наблюдений,0.95,,,0.0,0.14285714285714285,spring,hour vs month
+kendall,по типу наблюдений,0.95,,,0.0,0.14285714285714285,spring,day vs month
+kendall,по типу наблюдений,0.95,,,1.0,1.0,summer,hour vs day
+kendall,по типу наблюдений,0.95,,,0.1111111111111111,0.42857142857142855,summer,hour vs month
+kendall,по типу наблюдений,0.95,,,0.1111111111111111,0.42857142857142855,summer,day vs month
+kendall,по типу наблюдений,0.95,,,1.0,1.0,autumn,hour vs day
+kendall,по типу наблюдений,0.95,,,0.0,0.14285714285714285,autumn,hour vs month
+kendall,по типу наблюдений,0.95,,,0.0,0.14285714285714285,autumn,day vs month

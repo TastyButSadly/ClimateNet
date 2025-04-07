@@ -1,0 +1,13 @@
+Пара,Коэффициент корреляции Мантеля,p-value,p-value (Бонферрони),Значимый
+hour_winter_pearson vs hour_winter_kendall,0.9880143143077934,0.000999000999000999,0.011988011988011988,True
+hour_spring_pearson vs hour_spring_kendall,0.9895918011063862,0.001998001998001998,0.023976023976023976,True
+hour_summer_pearson vs hour_summer_kendall,0.9948561394974587,0.000999000999000999,0.011988011988011988,True
+hour_autumn_pearson vs hour_autumn_kendall,0.9936537169004173,0.000999000999000999,0.011988011988011988,True
+day_winter_pearson vs day_winter_kendall,0.9848595836592071,0.000999000999000999,0.011988011988011988,True
+day_spring_pearson vs day_spring_kendall,0.9783640140388943,0.000999000999000999,0.011988011988011988,True
+day_summer_pearson vs day_summer_kendall,0.978096078003594,0.000999000999000999,0.011988011988011988,True
+day_autumn_pearson vs day_autumn_kendall,0.9888504102412168,0.000999000999000999,0.011988011988011988,True
+month_winter_pearson vs month_winter_kendall,0.9819881376703853,0.04495504495504495,0.5394605394605394,False
+month_spring_pearson vs month_spring_kendall,,,,False
+month_summer_pearson vs month_summer_kendall,0.8072357520598241,0.007992007992007992,0.0959040959040959,False
+month_autumn_pearson vs month_autumn_kendall,,,,False
